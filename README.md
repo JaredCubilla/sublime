@@ -94,6 +94,8 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 ### SublimeLinter
 
+For a more full list of SublimeLinters, check out [this](https://sublime.wbond.net/browse/labels/SublimeLinter).
+
 - [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter) - the most extensive Sublime Text linter out there
 - [SublimeLinter-jshint](https://sublime.wbond.net/packages/SublimeLinter-jshint) - Javascript Linter
 - [SublimeLinter-html-tidy](https://sublime.wbond.net/packages/SublimeLinter-html-tidy) - HTML Linter
