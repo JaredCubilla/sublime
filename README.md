@@ -25,13 +25,18 @@ A collection of some of the best Sublime Text packages, themes, and goodies.
 - [Jade Snippets](https://sublime.wbond.net/packages/Jade%20Snippets) - snippets for Jade
 - [Ruby Slim](https://sublime.wbond.net/packages/Ruby%20Slim) - syntax for Slim
 
+- [HTML Mustache](https://sublime.wbond.net/packages/HTML%20Mustache) - syntax and snippets for Mustache
+- [Handlebars](https://sublime.wbond.net/packages/Handlebars) - syntax and snippets for Handlebars
+
 #### CSS Preprocessors
 
 - [Sass](https://sublime.wbond.net/packages/Sass) - syntax support for Sass and SCSS
 - [SCSS](https://sublime.wbond.net/packages/SCSS) - official SCSS bundle
 - [Sass Snippets](https://sublime.wbond.net/packages/SASS%20Snippets) - snippets for SASS
 - [SCSS Snippets](https://sublime.wbond.net/packages/SCSS%20Snippets) Snippets for SCSS
+ 
 - [LESS](https://sublime.wbond.net/packages/LESS) - syntax support for LESS, autocomplete, and snippets
+
 - [Stylus](https://sublime.wbond.net/packages/Stylus) - syntax support for Stylus
 - [Stylus Snippets](https://sublime.wbond.net/packages/Stylus-Snippets) - snippets for Stylus
 
@@ -40,4 +45,6 @@ A collection of some of the best Sublime Text packages, themes, and goodies.
 - [Coffeescript](https://sublime.wbond.net/packages/CoffeeScript) - syntax and snippets for Coffeescript
 - [Typescript](https://sublime.wbond.net/packages/TypeScript) - syntax for Typescript
 - [Livescript](https://sublime.wbond.net/packages/LiveScript) - syntax for Livescript
+
+
 
