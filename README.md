@@ -1,6 +1,6 @@
 # Sublime
 
-A collection of some of the best Sublime Text packages, themes, and goodies.
+A collection of some of the best Sublime Text packages, themes, tutorials, articles and goodies.
 
 ## Getting Started
 
@@ -70,6 +70,13 @@ A collection of some of the best Sublime Text packages, themes, and goodies.
 - [HTML-CSS-JS-Prettify](https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify) - prettifies HTML, CSS and JS
 - [Pretty JSON](https://sublime.wbond.net/packages/Pretty%20JSON) - prettifies JSON
 
+#### Workflow
+
+- [Grunt](https://sublime.wbond.net/packages/Grunt) - Grunt task runner in Sublime Text
+- [Gulp](https://sublime.wbond.net/packages/Gulp) Gulp task runner in Sublime Text
+- [Terminal](https://sublime.wbond.net/packages/Terminal) terminal in Sublime Text
+- [Bower](https://sublime.wbond.net/packages/Bower) install bower packages from Sublime Text
+
 ### Compatibility
 
 - [Can I Use](https://sublime.wbond.net/packages/Can%20I%20Use) - checks CSS property support with Can I Use
@@ -78,6 +85,43 @@ A collection of some of the best Sublime Text packages, themes, and goodies.
 ### Other
 
 - [Emmet](https://sublime.wbond.net/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS
+
+## Backend Web Development
+
+- *coming soon*
+
+## Linters
+
+### SublimeLinter
+
+- [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter) - the most extensive Sublime Text linter out there
+- [SublimeLinter-jshint](https://sublime.wbond.net/packages/SublimeLinter-jshint) - Javascript Linter
+- [SublimeLinter-html-tidy](https://sublime.wbond.net/packages/SublimeLinter-html-tidy) - HTML Linter
+- [SublimeLinter-csslint](https://sublime.wbond.net/packages/SublimeLinter-csslint) - CSS Linter
+- [SublimeLinter-json](https://sublime.wbond.net/packages/SublimeLinter-json) - JSON Linter
+- [SublimeLinter-php](https://sublime.wbond.net/packages/SublimeLinter-php) - PHP Linter
+- [SublimeLinter-pylint](https://sublime.wbond.net/packages/SublimeLinter-pylint) - Python Linter
+- [SublimeLinter-ruby](https://sublime.wbond.net/packages/SublimeLinter-ruby) - Ruby Linter
+- [SublimeLinter-contrib-java](https://sublime.wbond.net/packages/SublimeLinter-contrib-java) - Java Linter
+- [SublimeLinter-contrib-clang](https://sublime.wbond.net/packages/SublimeLinter-contrib-clang) - C/C++ Linter
+- [SublimeLinter-lua](https://sublime.wbond.net/packages/SublimeLinter-lua) - Lua Linter
+- [SublimeLinter-perl](https://sublime.wbond.net/packages/SublimeLinter-contrib-perl) - Perl Linter
+- [SublimeLinter-xmllint](https://sublime.wbond.net/packages/SublimeLinter-xmllint) - XML Linter
+- [SublimeLinter-contrib-rustc](https://sublime.wbond.net/packages/SublimeLinter-contrib-rustc) - Rust Linter
+
+### Other Linters
+
+- [jslint](https://sublime.wbond.net/packages/JSLint) - Javascript Linter
+- [CoffeeLint](https://sublime.wbond.net/packages/CoffeeLint) - Coffeescript Linter
+- [JSONLint](https://sublime.wbond.net/packages/JSONLint) - JSON Linter
+- [Pylint](https://sublime.wbond.net/packages/Pylinter) - Python Linter
+
+## Version Control
+
+- [Git](https://sublime.wbond.net/packages/Git) - awesome git integration into Sublime Text
+- [GitGutter](https://sublime.wbond.net/packages/GitGutter) - see git diffs in gutter
+- [Github Tools](https://sublime.wbond.net/packages/Github%20Tools) - tools to work with Github in Sublime Text
+- [SVN](https://sublime.wbond.net/packages/SVN) - plugin for Subversion
 
 ## User Interface Upgrades
 
@@ -106,9 +150,9 @@ For color scheme development, check out [this color scheme editor](http://tmthem
 
 ### Other
 
-- [Sidebar Enhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
+- [Sidebar Enhancements](https://sublime.wbond.net/packages/SideBarEnhancements) - enhancements for your sidebar (duh)
 
-## Tutorials
+## Tutorials/Blog Posts/Articles
 
 - *coming soon*
 
