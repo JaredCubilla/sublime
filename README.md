@@ -10,7 +10,7 @@ A collection of some of the best Sublime Text packages, themes, and goodies.
 
 ## Web Development
 
-### Syntax/Snippets
+### Syntax/Snippets/Auto-complete
 
 #### Fundamentals
 
@@ -43,5 +43,24 @@ A collection of some of the best Sublime Text packages, themes, and goodies.
 - [Typescript](https://sublime.wbond.net/packages/TypeScript) - syntax for Typescript
 - [Livescript](https://sublime.wbond.net/packages/LiveScript) - syntax for Livescript
 
+#### CSS Frameworks
+
+- [Bootstrap 3 Snippets](https://sublime.wbond.net/packages/Bootstrap%203%20Snippets) - snippets for Bootstrap 3
+- [Foundation Snippets](https://sublime.wbond.net/packages/Foundation%20Snippets) - snippets for Foundation
+- [Semantic UI](https://sublime.wbond.net/packages/Semantic%20UI) - snippets for Semantic UI
+- [Susy](https://sublime.wbond.net/packages/Susy%20Snippets) - snippets for Susy
+- [PureCSS](https://sublime.wbond.net/packages/PureCSS) - autocomplete for Pure
+
+#### JS Frameworks
+
+- [jQuery](https://sublime.wbond.net/packages/jQuery) - autocomplete, snippets, and syntax for jQuery
+- [jQuery Mobile Snippets](https://sublime.wbond.net/packages/jQuery%20Mobile%20Snippets) - snippets for jQuery Mobile
+- [AngularJS](https://sublime.wbond.net/packages/AngularJS) - autocomplete and snippets for AngularJS
+- [Backbone.js](https://sublime.wbond.net/packages/Backbone.js) - snippets for Backbone.js
+- [Ember.js Snippets](https://sublime.wbond.net/packages/Ember.js%20Snippets) - snippets for Ember.js
+- [Underscorejs Snippets](https://sublime.wbond.net/packages/Underscorejs%20snippets) - snippets for Underscore.js
+- [Vuejs Snippets](https://sublime.wbond.net/packages/Vuejs%20Snippets) - snippets for Vue.js
+- [ReactJS](https://sublime.wbond.net/packages/ReactJS) - snippets and syntax for ReactJS and JSX
+- [Sublime-KnockoutJS-Snippets](https://sublime.wbond.net/packages/Sublime-KnockoutJS-Snippets) - snippets for KnockoutJS
 
 
