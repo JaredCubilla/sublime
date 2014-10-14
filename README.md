@@ -153,7 +153,6 @@ For color scheme development, check out [this color scheme editor](http://tmthem
 - [Gray Matter](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Gray%20Matter)
 - [Spectral](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Spectral)
 - [Future Funk](https://sublime.wbond.net/packages/Future%20Funk%20-%20Color%20Scheme)
-- [Space Gray](https://github.com/kkga/spacegray)
 
 ### Other
 
