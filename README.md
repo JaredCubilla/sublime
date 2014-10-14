@@ -69,6 +69,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 - [HTML-CSS-JS-Prettify](https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify) - prettifies HTML, CSS and JS
 - [Pretty JSON](https://sublime.wbond.net/packages/Pretty%20JSON) - prettifies JSON
+- [Alignment](https://sublime.wbond.net/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
 
 #### Workflow
 
@@ -85,6 +86,8 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 ### Other
 
 - [Emmet](https://sublime.wbond.net/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS
+- [AutoFileName](https://sublime.wbond.net/packages/AutoFileName) - Autocomplete Filenames in Sublime Text
+- [DocBlockr](https://sublime.wbond.net/packages/DocBlockr) - Simplifies writing DocBlock comments
 
 ## Backend Web Development
 
@@ -99,6 +102,7 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter) - the most extensive Sublime Text linter out there
 - [SublimeLinter-jshint](https://sublime.wbond.net/packages/SublimeLinter-jshint) - Javascript Linter
 - [SublimeLinter-html-tidy](https://sublime.wbond.net/packages/SublimeLinter-html-tidy) - HTML Linter
+- [SublimeLinter-haml](https://sublime.wbond.net/packages/SublimeLinter-haml) - HAML Linter
 - [SublimeLinter-csslint](https://sublime.wbond.net/packages/SublimeLinter-csslint) - CSS Linter
 - [SublimeLinter-json](https://sublime.wbond.net/packages/SublimeLinter-json) - JSON Linter
 - [SublimeLinter-php](https://sublime.wbond.net/packages/SublimeLinter-php) - PHP Linter
@@ -149,10 +153,14 @@ For color scheme development, check out [this color scheme editor](http://tmthem
 - [Gray Matter](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Gray%20Matter)
 - [Spectral](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Spectral)
 - [Future Funk](https://sublime.wbond.net/packages/Future%20Funk%20-%20Color%20Scheme)
+- [Space Gray](https://github.com/kkga/spacegray)
 
 ### Other
 
 - [Sidebar Enhancements](https://sublime.wbond.net/packages/SideBarEnhancements) - enhancements for your sidebar (duh)
+- [Gutter Color](https://sublime.wbond.net/packages/Gutter%20Color) - displays a colored icon for all lines which contain a color
+- [Origami](https://sublime.wbond.net/packages/Origami) - custom panes
+- [TodoReview](https://sublime.wbond.net/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
 
 ## Tutorials/Blog Posts/Articles
 
