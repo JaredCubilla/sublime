@@ -144,8 +144,6 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 
 ### Color Schemes
 
-For color scheme development, check out [this color scheme editor](http://tmtheme-editor.herokuapp.com/). Also, if you're looking for a more comprehensive color scheme list, check out [this](http://colorsublime.com/) and [this](https://github.com/daylerees/colour-schemes).
-
 - [Tomorrow](https://sublime.wbond.net/packages/Tomorrow%20Color%20Schemes)
 - [Ant](https://sublime.wbond.net/packages/Ant%20Color%20Scheme)
 - [Spirit](https://sublime.wbond.net/packages/Spirit%20Color%20Scheme)
@@ -153,6 +151,12 @@ For color scheme development, check out [this color scheme editor](http://tmthem
 - [Gray Matter](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Gray%20Matter)
 - [Spectral](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Spectral)
 - [Future Funk](https://sublime.wbond.net/packages/Future%20Funk%20-%20Color%20Scheme)
+
+#### Color Scheme Related Links
+
+- [tmTheme Editor](http://tmtheme-editor.herokuapp.com/) - allows you to make your own Sublime color schemes
+- [ColorSublime](http://colorsublime.com/) - a website featuring a wide variety of Sublime color schemes
+- [Schemr](https://sublime.wbond.net/packages/Schemr) - a package that allows you to switch between color schemes faster
 
 ### Other
 
