@@ -161,6 +161,7 @@ For color scheme development, check out [this color scheme editor](http://tmthem
 - [Gutter Color](https://sublime.wbond.net/packages/Gutter%20Color) - displays a colored icon for all lines which contain a color
 - [Origami](https://sublime.wbond.net/packages/Origami) - custom panes
 - [TodoReview](https://sublime.wbond.net/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
+- [GhostText](https://sublime.wbond.net/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
 
 ## Tutorials/Blog Posts/Articles
 
