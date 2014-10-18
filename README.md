@@ -14,10 +14,13 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 #### Fundamentals
 
+- [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
 - [HTML5](https://sublime.wbond.net/packages/HTML5) - HTML5 snippets/syntax
 - [HTML5 Boilerplate](https://sublime.wbond.net/packages/HTML%20Boilerplate) - snippet to generate HTML5 Boilerplate
 - [CSS3](https://sublime.wbond.net/packages/CSS3) - CSS3 syntax, autocomplete
 - [Javascript Snippets](https://sublime.wbond.net/packages/JavaScript%20Snippets)
+- [AllAutocomplete](https://sublime.wbond.net/packages/All%20Autocomplete) - Extend autocompletion to find matches in all open files of the current window
+- [BracketHighlighter](https://sublime.wbond.net/packages/BracketHighlighter) - Bracket and tag highlighter
 
 #### HTML Preprocessors / Templating
 
@@ -165,6 +168,9 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Origami](https://sublime.wbond.net/packages/Origami) - custom panes
 - [TodoReview](https://sublime.wbond.net/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
 - [GhostText](https://sublime.wbond.net/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
+- [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile) - Advanced file creation. E.g. allows to specify file path right when creating a new file
+- [FileDiffs](https://sublime.wbond.net/packages/FileDiffs) - Show file diffs
+- [TrailingSpaces](https://sublime.wbond.net/packages/TrailingSpaces) - Highlight trailing spaces/tabs and delete them
 
 ## Tutorials/Blog Posts/Articles
 
