@@ -8,15 +8,17 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [Unofficial Documentation](http://docs.sublimetext.info/en/latest/index.html)
 - [Package Control](https://sublime.wbond.net/installation) - an essential package manager for Sublime Text
 
-## HTML/CSS
+## Language-Specific
 
-### Essentials
+### HTML/CSS
+
+#### Essentials
 
 - [HTML5](https://sublime.wbond.net/packages/HTML5) - HTML5 snippets/syntax
 - [HTML5 Boilerplate](https://sublime.wbond.net/packages/HTML%20Boilerplate) - snippet to generate HTML5 Boilerplate
 - [CSS3](https://sublime.wbond.net/packages/CSS3) - CSS3 syntax, autocomplete
 
-### HTML Preprocessors/Templating
+#### HTML Preprocessors/Templating
 
 - [Haml](https://sublime.wbond.net/packages/Haml) - syntax and snippets for Haml
 - [Jade](https://sublime.wbond.net/packages/Jade) - syntax for Jade
@@ -25,7 +27,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [HTML Mustache](https://sublime.wbond.net/packages/HTML%20Mustache) - syntax and snippets for Mustache
 - [Handlebars](https://sublime.wbond.net/packages/Handlebars) - syntax and snippets for Handlebars
 
-### CSS Preprocessors
+#### CSS Preprocessors
 
 - [Sass](https://sublime.wbond.net/packages/Sass) - syntax support for Sass and SCSS
 - [SCSS](https://sublime.wbond.net/packages/SCSS) - official SCSS bundle
@@ -35,7 +37,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [Stylus](https://sublime.wbond.net/packages/Stylus) - syntax support for Stylus
 - [Stylus Snippets](https://sublime.wbond.net/packages/Stylus-Snippets) - snippets for Stylus
 
-### CSS Frameworks
+#### CSS Frameworks
 
 - [Bootstrap 3 Snippets](https://sublime.wbond.net/packages/Bootstrap%203%20Snippets) - snippets for Bootstrap 3
 - [Foundation Snippets](https://sublime.wbond.net/packages/Foundation%20Snippets) - snippets for Foundation
@@ -44,42 +46,42 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [UIkit Autocomplete](https://sublime.wbond.net/packages/UIkit%20autocomplete) - autocomplete for UIkit
 - [PureCSS](https://sublime.wbond.net/packages/PureCSS) - autocomplete for Pure
 
-### Prettification
+#### Prettification
 
 - [HTML-CSS-JS-Prettify](https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify) - prettifies HTML, CSS and JS
 
 
-### Workflow
+#### Workflow
 
 - [Grunt](https://sublime.wbond.net/packages/Grunt) - Grunt task runner in Sublime Text
 - [Gulp](https://sublime.wbond.net/packages/Gulp) Gulp task runner in Sublime Text
 - [Bower](https://sublime.wbond.net/packages/Bower) install bower packages from Sublime Text
 
-### Compatibility
+#### Compatibility
 
 - [Can I Use](https://sublime.wbond.net/packages/Can%20I%20Use) - checks CSS property support with [Can I Use](http://caniuse.com/)
 - [Autoprefixer](https://sublime.wbond.net/packages/Autoprefixer) - an automatic CSS prefixer
 
-### Other
+#### Other
 
 - [Emmet](https://sublime.wbond.net/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS
 - [AutoFileName](https://sublime.wbond.net/packages/AutoFileName) - Autocomplete Filenames in Sublime Text
 - [DocBlockr](https://sublime.wbond.net/packages/DocBlockr) - Simplifies writing DocBlock comments
 
-## Javascript
+### Javascript
 
-### Essentials
+#### Essentials
 
 - [Javascript Snippets](https://sublime.wbond.net/packages/JavaScript%20Snippets)
 - [Nodejs](https://sublime.wbond.net/packages/Nodejs) - snippets and code completion for Node.js
 
-### Preprocessors
+#### Preprocessors
 
 - [Coffeescript](https://sublime.wbond.net/packages/CoffeeScript) - syntax and snippets for Coffeescript
 - [Typescript](https://sublime.wbond.net/packages/TypeScript) - syntax for Typescript
 - [Livescript](https://sublime.wbond.net/packages/LiveScript) - syntax for Livescript
 
-### Frameworks
+#### Frameworks
 
 - [jQuery](https://sublime.wbond.net/packages/jQuery) - autocomplete, snippets, and syntax for jQuery
 - [jQuery Mobile Snippets](https://sublime.wbond.net/packages/jQuery%20Mobile%20Snippets) - snippets for jQuery Mobile
@@ -91,25 +93,25 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [ReactJS](https://sublime.wbond.net/packages/ReactJS) - snippets and syntax for ReactJS and JSX
 - [Sublime-KnockoutJS-Snippets](https://sublime.wbond.net/packages/Sublime-KnockoutJS-Snippets) - snippets for KnockoutJS
 
-### Workflow
+#### Workflow
 
 - [Grunt](https://sublime.wbond.net/packages/Grunt) - Grunt task runner in Sublime Text
 - [Gulp](https://sublime.wbond.net/packages/Gulp) Gulp task runner in Sublime Text
 - [Bower](https://sublime.wbond.net/packages/Bower) install bower packages from Sublime Text
 
-### Other
+#### Other
 
 - [Pretty JSON](https://sublime.wbond.net/packages/Pretty%20JSON) - prettifies JSON
 
-## PHP
+### PHP
 
 - *coming soon*
 
-## Ruby
+### Ruby
 
 - *coming soon*
 
-## Python
+### Python
 
 - *coming soon*
 
@@ -183,9 +185,6 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Sidebar Enhancements](https://sublime.wbond.net/packages/SideBarEnhancements) - enhancements for your sidebar (duh)
 - [Gutter Color](https://sublime.wbond.net/packages/Gutter%20Color) - displays a colored icon for all lines which contain a color
 - [Origami](https://sublime.wbond.net/packages/Origami) - custom panes
-- [TodoReview](https://sublime.wbond.net/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
-- - [Alignment](https://sublime.wbond.net/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
-- [GhostText](https://sublime.wbond.net/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
 
 ## Learning Resources
 
@@ -200,6 +199,17 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - 
 
 - *coming soon*
+
+## Other
+
+- [TodoReview](https://sublime.wbond.net/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
+- - [Alignment](https://sublime.wbond.net/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
+- [GhostText](https://sublime.wbond.net/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
+- [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile) - Advanced file creation. E.g. allows to specify file path right when creating a new file
+- [FileDiffs](https://sublime.wbond.net/packages/FileDiffs) - Show file diffs
+- [TrailingSpaces](https://sublime.wbond.net/packages/TrailingSpaces) - Highlight trailing spaces/tabs and delete them
+- [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
+- [AllAutocomplete](https://sublime.wbond.net/packages/All%20Autocomplete) - Extend autocompletion to find matches in all open files of the current window
 
 ## Contributing
 
