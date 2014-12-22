@@ -196,8 +196,6 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 
 ### Video Tutorials
 
-- 
-
 - *coming soon*
 
 ## Other
