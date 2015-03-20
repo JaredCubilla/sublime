@@ -93,11 +93,6 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [ReactJS](https://sublime.wbond.net/packages/ReactJS) - snippets and syntax for ReactJS and JSX
 - [Sublime-KnockoutJS-Snippets](https://sublime.wbond.net/packages/Sublime-KnockoutJS-Snippets) - snippets for KnockoutJS
 
-#### Workflow
-
-- [Grunt](https://sublime.wbond.net/packages/Grunt) - Grunt task runner in Sublime Text
-- [Gulp](https://sublime.wbond.net/packages/Gulp) Gulp task runner in Sublime Text
-- [Bower](https://sublime.wbond.net/packages/Bower) install bower packages from Sublime Text
 
 #### Other
 
