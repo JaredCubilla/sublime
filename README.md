@@ -158,6 +158,7 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Argonaut](https://sublime.wbond.net/packages/Theme%20-%20Argonaut)
 - [Piatto](https://sublime.wbond.net/packages/Theme%20-%20Piatto)
 - [Flatron](https://sublime.wbond.net/packages/Flatron)
+- [Afterglow](https://sublime.wbond.net/packages/Theme%20-%20Afterglow)
 
 ### Color Schemes
 
