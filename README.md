@@ -146,6 +146,11 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Github Tools](https://sublime.wbond.net/packages/Github%20Tools) - tools to work with Github in Sublime Text
 - [SVN](https://sublime.wbond.net/packages/SVN) - plugin for Subversion
 
+## Writing and publishing
+
+- [Asciidoctor](https://github.com/asciidoctor/sublimetext-asciidoc) - syntax highlighting, snippets and other goodies for AsciiDoc editing
+- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - powerful Markdown package with better syntax understanding and good color schemes
+
 ## UI Upgrades
 
 ### Themes
