@@ -187,6 +187,10 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Gutter Color](https://sublime.wbond.net/packages/Gutter%20Color) - displays a colored icon for all lines which contain a color
 - [Origami](https://sublime.wbond.net/packages/Origami) - custom panes
 
+## For Plugins Developers
+
+- [SublimeDSL](https://github.com/jirutka/sublimedsl) - simple pythonic DSL for generating Sublime Text configs
+
 ## Learning Resources
 
 ### Books
