@@ -108,7 +108,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 ### Python
 
-- *coming soon*
+- [FoldPython](https://github.com/svenfraeys/SublimeFoldPython) - intelligent folding and code navigation
 
 ## Linters
 
@@ -150,8 +150,11 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 
 - [Asciidoctor](https://github.com/asciidoctor/sublimetext-asciidoc) - syntax highlighting, snippets and other goodies for AsciiDoc editing
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - powerful Markdown package with better syntax understanding and good color schemes
+- [KeyboardSpellCheck](https://github.com/jlknuth/KeyboardSpellCheck) - fast spell checking *sans mouse*
 
 ## UI Upgrades
+
+- [PreferencesEditor](https://packagecontrol.io/packages/Preferences%20Editor) - edit package preferences from the command palette
 
 ### Themes
 
@@ -202,18 +205,17 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 ## Other
 
 - [TodoReview](https://sublime.wbond.net/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
-- - [Alignment](https://sublime.wbond.net/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
+- [Alignment](https://sublime.wbond.net/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
 - [GhostText](https://sublime.wbond.net/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
 - [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile) - Advanced file creation. E.g. allows to specify file path right when creating a new file
 - [FileDiffs](https://sublime.wbond.net/packages/FileDiffs) - Show file diffs
 - [TrailingSpaces](https://sublime.wbond.net/packages/TrailingSpaces) - Highlight trailing spaces/tabs and delete them
 - [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
 - [AllAutocomplete](https://sublime.wbond.net/packages/All%20Autocomplete) - Extend autocompletion to find matches in all open files of the current window
+- [SelectUntil](https://github.com/xavi-/sublime-selectuntil) - expand or move all selections to a regex match
 
 ## Contributing
 
 I'll make sure to answer to all issues issued and all pull requests pulled. Typos, suggestions, broken links, grammar errors, whatever. Go right ahead.
 
 Huge thanks to the Sublime team at Sublime Text for producing such a wonderful editor, and thanks to [@wbond](https://github.com/wbond) for creating Package Control.
-
-
