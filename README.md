@@ -97,6 +97,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 #### Other
 
 - [Pretty JSON](https://sublime.wbond.net/packages/Pretty%20JSON) - prettifies JSON
+- [Scopes](https://github.com/tushortz/scopes) - get over 165 language scopes for theme making, auto-complete etc.
 
 ### PHP
 
@@ -109,6 +110,11 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 ### Python
 
 - [FoldPython](https://github.com/svenfraeys/SublimeFoldPython) - intelligent folding and code navigation
+
+
+### Java
+
+- [JavaIME](https://packagecontrol.io/packages/JavaIME) - Easily import Java packages and classes in sublime text
 
 ## Linters
 
@@ -177,12 +183,15 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Gray Matter](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Gray%20Matter)
 - [Spectral](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Spectral)
 - [Future Funk](https://sublime.wbond.net/packages/Future%20Funk%20-%20Color%20Scheme)
+- [Wildlife](https://packagecontrol.io/packages/Wildlife)
 
 #### Color Scheme Related Links
 
 - [tmTheme Editor](http://tmtheme-editor.herokuapp.com/) - allows you to make your own Sublime color schemes
 - [ColorSublime](http://colorsublime.com/) - a website featuring a wide variety of Sublime color schemes
 - [Schemr](https://sublime.wbond.net/packages/Schemr) - a package that allows you to switch between color schemes faster
+- [Sublimescheme](https://pypi.python.org/pypi/sublimescheme) - a python package to quickly create a colour scheme with as little as six lines of code.
+- [Sublimetheme](https://rubygems.org/gems/sublimetheme) - a python package to quickly create a colour scheme with as little as six lines of code.
 
 ### Other
 
