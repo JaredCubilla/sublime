@@ -191,7 +191,7 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [ColorSublime](http://colorsublime.com/) - a website featuring a wide variety of Sublime color schemes
 - [Schemr](https://sublime.wbond.net/packages/Schemr) - a package that allows you to switch between color schemes faster
 - [Sublimescheme](https://pypi.python.org/pypi/sublimescheme) - a python package to quickly create a colour scheme with as little as six lines of code.
-- [Sublimetheme](https://rubygems.org/gems/sublimetheme) - a python package to quickly create a colour scheme with as little as six lines of code.
+- [Sublimetheme](https://rubygems.org/gems/sublimetheme) - a Ruby package to quickly create a colour scheme with as little as six lines of code.
 
 ### Other
 
