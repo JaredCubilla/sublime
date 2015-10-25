@@ -7,6 +7,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [Sublime Text](http://www.sublimetext.com/) - if you haven't even installed the text editor yet, go and install the text editor
 - [Unofficial Documentation](http://docs.sublimetext.info/en/latest/index.html)
 - [Package Control](https://sublime.wbond.net/installation) - an essential package manager for Sublime Text
+- [Brief introduction to Sublime Text customization](https://css-tricks.com/sublime-text-front-end-developers/)
 
 ## Language-Specific
 
