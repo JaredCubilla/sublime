@@ -213,7 +213,9 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 
 ### Video Tutorials
 
-- *coming soon*
+- [LevelUpTuts Sublime Text 2 Tutorials](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP) - Easy to follow and understand video tutorial for beginners
+- [Gerinho/Jeffrey Way's Sublime Text Video Tutorial Series](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4) - In depth series of tips and tricks (Mostly Mac specific)
+- [tdsurvival - Getting Started with SublimeText](https://www.youtube.com/watch?v=04gKiTiRlq8) - Introduction to Sublime, showing features, etc.
 
 ## Other
 
