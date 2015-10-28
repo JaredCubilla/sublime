@@ -69,7 +69,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [AutoFileName](https://sublime.wbond.net/packages/AutoFileName) - Autocomplete Filenames in Sublime Text
 - [DocBlockr](https://sublime.wbond.net/packages/DocBlockr) - Simplifies writing DocBlock comments
 
-### Javascript
+#### Javascript
 
 #### Essentials
 
@@ -94,6 +94,9 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [ReactJS](https://sublime.wbond.net/packages/ReactJS) - snippets and syntax for ReactJS and JSX
 - [Sublime-KnockoutJS-Snippets](https://sublime.wbond.net/packages/Sublime-KnockoutJS-Snippets) - snippets for KnockoutJS
 
+#### GUI
+- [Qt Completions for C++](https://github.com/tushortz/Qt-Completions-for-Cpp) - Completion features for Qt C++
+- [PyQt5 Completions](https://github.com/tushortz/PyQt5-Completions) = Completion features for PyQt *(All versions)*
 
 #### Other
 
@@ -116,6 +119,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 ### Java
 
 - [JavaIME](https://packagecontrol.io/packages/JavaIME) - Easily import Java packages and classes in sublime text
+- [Java Methods Completion](https://github.com/tushortz/Java-Methods-Completion) - All java methods completion for sublime text.
 
 ## Linters
 
@@ -184,7 +188,7 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Gray Matter](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Gray%20Matter)
 - [Spectral](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Spectral)
 - [Future Funk](https://sublime.wbond.net/packages/Future%20Funk%20-%20Color%20Scheme)
-- [Wildlife](https://packagecontrol.io/packages/Wildlife)
+- [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
 
 #### Color Scheme Related Links
 
