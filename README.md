@@ -69,7 +69,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [AutoFileName](https://sublime.wbond.net/packages/AutoFileName) - Autocomplete Filenames in Sublime Text
 - [DocBlockr](https://sublime.wbond.net/packages/DocBlockr) - Simplifies writing DocBlock comments
 
-#### Javascript
+### Javascript
 
 #### Essentials
 
