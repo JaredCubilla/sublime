@@ -115,6 +115,9 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 - [FoldPython](https://github.com/svenfraeys/SublimeFoldPython) - intelligent folding and code navigation
 
+### Go
+
+- [Sourcegraph](https://sourcegraph.com/tools/editor) - instant code usage examples, as you type ("automatic pair programmer")
 
 ### Java
 
