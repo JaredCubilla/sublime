@@ -160,6 +160,10 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Github Tools](https://sublime.wbond.net/packages/Github%20Tools) - tools to work with Github in Sublime Text
 - [SVN](https://sublime.wbond.net/packages/SVN) - plugin for Subversion
 
+## FTP, FTPS, and SFTP
+
+- [SFTP](https://wbond.net/sublime_packages/sftp) - excellent file transfer package with stellar documentation. 
+
 ## Writing and publishing
 
 - [Asciidoctor](https://github.com/asciidoctor/sublimetext-asciidoc) - syntax highlighting, snippets and other goodies for AsciiDoc editing
