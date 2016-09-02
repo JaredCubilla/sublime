@@ -185,6 +185,7 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 - [Piatto](https://sublime.wbond.net/packages/Theme%20-%20Piatto)
 - [Flatron](https://sublime.wbond.net/packages/Flatron)
 - [Afterglow](https://sublime.wbond.net/packages/Theme%20-%20Afterglow)
+- [Material](http://equinusocio.github.io/material-theme/)
 
 ### Color Schemes
 
