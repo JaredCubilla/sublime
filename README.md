@@ -6,7 +6,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 - [Sublime Text](http://www.sublimetext.com/) - if you haven't even installed the text editor yet, go and install the text editor
 - [Unofficial Documentation](http://docs.sublimetext.info/en/latest/index.html)
-- [Package Control](https://sublime.wbond.net/installation) - an essential package manager for Sublime Text
+- [Package Control](https://packagecontrol.io/) - an essential package manager for Sublime Text
 - [Brief introduction to Sublime Text customization](https://css-tricks.com/sublime-text-front-end-developers/)
 
 ## Language-Specific
@@ -15,150 +15,144 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 #### Essentials
 
-- [HTML5](https://sublime.wbond.net/packages/HTML5) - HTML5 snippets/syntax
-- [HTML5 Boilerplate](https://sublime.wbond.net/packages/HTML%20Boilerplate) - snippet to generate HTML5 Boilerplate
-- [CSS3](https://sublime.wbond.net/packages/CSS3) - CSS3 syntax, autocomplete
+- [HTML5](https://packagecontrol.io/packages/HTML5) - HTML5 snippets/syntax
+- [HTML5 Boilerplate](https://packagecontrol.io/packages/HTML%20Boilerplate) - snippet to generate HTML5 Boilerplate
+- [CSS3](https://packagecontrol.io/packages/CSS3) - CSS3 syntax, autocomplete
 
 #### HTML Preprocessors/Templating
 
-- [Haml](https://sublime.wbond.net/packages/Haml) - syntax and snippets for Haml
-- [Jade](https://sublime.wbond.net/packages/Jade) - syntax for Jade
-- [Jade Snippets](https://sublime.wbond.net/packages/Jade%20Snippets) - snippets for Jade
-- [Ruby Slim](https://sublime.wbond.net/packages/Ruby%20Slim) - syntax for Slim
-- [HTML Mustache](https://sublime.wbond.net/packages/HTML%20Mustache) - syntax and snippets for Mustache
-- [Handlebars](https://sublime.wbond.net/packages/Handlebars) - syntax and snippets for Handlebars
+- [Haml](https://packagecontrol.io/packages/Haml) - syntax and snippets for Haml
+- [Jade](https://packagecontrol.io/packages/Jade) - syntax for Jade
+- [Jade Snippets](https://packagecontrol.io/packages/Jade%20Snippets) - snippets for Jade
+- [Ruby Slim](https://packagecontrol.io/packages/Ruby%20Slim) - syntax for Slim
+- [HTML Mustache](https://packagecontrol.io/packages/HTML%20Mustache) - syntax and snippets for Mustache
+- [Handlebars](https://packagecontrol.io/packages/Handlebars) - syntax and snippets for Handlebars
 
 #### CSS Preprocessors
 
-- [Sass](https://sublime.wbond.net/packages/Sass) - syntax support for Sass and SCSS
-- [SCSS](https://sublime.wbond.net/packages/SCSS) - official SCSS bundle
-- [Sass Snippets](https://sublime.wbond.net/packages/SASS%20Snippets) - snippets for SASS
-- [SCSS Snippets](https://sublime.wbond.net/packages/SCSS%20Snippets) Snippets for SCSS
-- [LESS](https://sublime.wbond.net/packages/LESS) - syntax support for LESS, autocomplete, and snippets
-- [Stylus](https://sublime.wbond.net/packages/Stylus) - syntax support for Stylus
-- [Stylus Snippets](https://sublime.wbond.net/packages/Stylus-Snippets) - snippets for Stylus
+- [Sass](https://packagecontrol.io/packages/Sass) - syntax support for Sass and SCSS
+- [Sass Snippets](https://packagecontrol.io/packages/SASS%20Snippets) - snippets for SASS
+- [SCSS](https://packagecontrol.io/packages/SCSS) - official SCSS bundle
+- [SCSS Snippets](https://packagecontrol.io/packages/SCSS%20Snippets) - snippets for SCSS
+- [LESS](https://packagecontrol.io/packages/LESS) - syntax support for LESS, autocomplete, and snippets
+- [Stylus](https://packagecontrol.io/packages/Stylus) - syntax support for Stylus
+- [Stylus Snippets](https://packagecontrol.io/packages/Stylus-Snippets) - snippets for Stylus
 
 #### CSS Frameworks
 
-- [Bootstrap 3 Snippets](https://sublime.wbond.net/packages/Bootstrap%203%20Snippets) - snippets for Bootstrap 3
-- [Foundation Snippets](https://sublime.wbond.net/packages/Foundation%20Snippets) - snippets for Foundation
-- [Semantic UI](https://sublime.wbond.net/packages/Semantic%20UI) - snippets for Semantic UI
-- [Susy](https://sublime.wbond.net/packages/Susy%20Snippets) - snippets for Susy
-- [UIkit Autocomplete](https://sublime.wbond.net/packages/UIkit%20autocomplete) - autocomplete for UIkit
-- [PureCSS](https://sublime.wbond.net/packages/PureCSS) - autocomplete for Pure
+- [Bootstrap 3 Snippets](https://packagecontrol.io/packages/Bootstrap%203%20Snippets) - snippets for Bootstrap 3
+- [Bootstrap 4 Snippets](https://packagecontrol.io/packages/Bootstrap%204%20Snippets) - snippets for Bootstrap 4
+- [Foundation 5 Snippets](https://packagecontrol.io/packages/Foundation%205%20Snippets) - snippets for Foundation 5
+- [Semantic UI](https://packagecontrol.io/packages/Semantic%20UI) - snippets for Semantic UI
+- [Materialized](https://packagecontrol.io/packages/Materialized%20CSS%20Snippets) - snippets for Materialize
+- [Susy](https://packagecontrol.io/packages/Susy%20Snippets) - snippets for Susy
+- [UIkit Autocomplete](https://packagecontrol.io/packages/UIkit%20autocomplete) - autocomplete for UIkit
+- [PureCSS](https://packagecontrol.io/packages/PureCSS) - autocomplete for Pure
 
 #### Prettification
 
-- [HTML-CSS-JS-Prettify](https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify) - prettifies HTML, CSS and JS
-
+- [HTMLTidy](https://packagecontrol.io/packages/HtmlTidy) - tidies, cleans HTML code
+- [HTML-CSS-JS-Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - prettifies HTML, CSS and JavaScript
 
 #### Workflow
 
-- [Grunt](https://sublime.wbond.net/packages/Grunt) - Grunt task runner in Sublime Text
-- [Gulp](https://sublime.wbond.net/packages/Gulp) Gulp task runner in Sublime Text
-- [Bower](https://sublime.wbond.net/packages/Bower) install bower packages from Sublime Text
+- [Grunt](https://packagecontrol.io/packages/Grunt) - Grunt task runner in Sublime Text
+- [Gulp](https://packagecontrol.io/packages/Gulp) - Gulp task runner in Sublime Text
+- [Bower](https://packagecontrol.io/packages/Bower) - install bower packages from Sublime Text
 
 #### Compatibility
 
-- [Can I Use](https://sublime.wbond.net/packages/Can%20I%20Use) - checks CSS property support with [Can I Use](http://caniuse.com/)
-- [Autoprefixer](https://sublime.wbond.net/packages/Autoprefixer) - an automatic CSS prefixer
+- [Can I Use](https://packagecontrol.io/packages/Can%20I%20Use) - checks CSS property support with [Can I Use](http://caniuse.com/)
+- [Autoprefixer](https://packagecontrol.io/packages/Autoprefixer) - an automatic CSS prefixer
 
 #### Other
 
-- [Emmet](https://sublime.wbond.net/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS
-- [AutoFileName](https://sublime.wbond.net/packages/AutoFileName) - Autocomplete Filenames in Sublime Text
-- [DocBlockr](https://sublime.wbond.net/packages/DocBlockr) - Simplifies writing DocBlock comments
+- [Emmet](https://packagecontrol.io/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS
+- [Emmet CSS Snippets](https://packagecontrol.io/packages/Emmet%20Css%20Snippets) - Emmet, only for CSS
 
 ### Javascript
 
 #### Essentials
 
-- [Javascript Snippets](https://sublime.wbond.net/packages/JavaScript%20Snippets)
-- [Nodejs](https://sublime.wbond.net/packages/Nodejs) - snippets and code completion for Node.js
+- [Javascript Snippets](https://packagecontrol.io/packages/JavaScript%20Snippets)
+- [Javascript Beautify](https://packagecontrol.io/packages/Javascript%20Beautify)
+- [Nodejs](https://packagecontrol.io/packages/Nodejs) - snippets and code completion for Node.js
 
 #### Preprocessors
 
-- [Coffeescript](https://sublime.wbond.net/packages/CoffeeScript) - syntax and snippets for Coffeescript
-- [Typescript](https://sublime.wbond.net/packages/TypeScript) - syntax for Typescript
-- [Livescript](https://sublime.wbond.net/packages/LiveScript) - syntax for Livescript
+- [Coffeescript](https://packagecontrol.io/packages/CoffeeScript) - syntax and snippets for Coffeescript
+- [Typescript](https://packagecontrol.io/packages/TypeScript) - syntax for Typescript
+- [Livescript](https://packagecontrol.io/packages/LiveScript) - syntax for Livescript
 
 #### Frameworks
 
-- [jQuery](https://sublime.wbond.net/packages/jQuery) - autocomplete, snippets, and syntax for jQuery
-- [jQuery Mobile Snippets](https://sublime.wbond.net/packages/jQuery%20Mobile%20Snippets) - snippets for jQuery Mobile
-- [AngularJS](https://sublime.wbond.net/packages/AngularJS) - autocomplete and snippets for AngularJS
-- [Backbone.js](https://sublime.wbond.net/packages/Backbone.js) - snippets for Backbone.js
-- [Ember.js Snippets](https://sublime.wbond.net/packages/Ember.js%20Snippets) - snippets for Ember.js
-- [Underscorejs Snippets](https://sublime.wbond.net/packages/Underscorejs%20snippets) - snippets for Underscore.js
-- [Vuejs Snippets](https://sublime.wbond.net/packages/Vuejs%20Snippets) - snippets for Vue.js
-- [ReactJS](https://sublime.wbond.net/packages/ReactJS) - snippets and syntax for ReactJS and JSX
-- [Sublime-KnockoutJS-Snippets](https://sublime.wbond.net/packages/Sublime-KnockoutJS-Snippets) - snippets for KnockoutJS
-
-#### GUI
-- [Qt Completions for C++](https://github.com/tushortz/Qt-Completions-for-Cpp) - Completion features for Qt C++
-- [PyQt5 Completions](https://github.com/tushortz/PyQt5-Completions) = Completion features for PyQt *(All versions)*
+- [jQuery](https://packagecontrol.io/packages/jQuery) - autocomplete, snippets, and syntax for jQuery
+- [jQuery Mobile Snippets](https://packagecontrol.io/packages/jQuery%20Mobile%20Snippets) - snippets for jQuery Mobile
+- [AngularJS](https://packagecontrol.io/packages/AngularJS) - autocomplete and snippets for AngularJS
+- [Backbone.js](https://packagecontrol.io/packages/Backbone.js) - snippets for Backbone.js
+- [Ember.js Snippets](https://packagecontrol.io/packages/Ember.js%20Snippets) - snippets for Ember.js
+- [ReactJS](https://packagecontrol.io/packages/ReactJS) - snippets and syntax for ReactJS and JSX
+- [Underscorejs Snippets](https://packagecontrol.io/packages/Underscorejs%20snippets) - snippets for Underscore.js
+- [Vuejs Snippets](https://packagecontrol.io/packages/Vuejs%20Snippets) - snippets for Vue.js
+- [Sublime-KnockoutJS-Snippets](https://packagecontrol.io/packages/Sublime-KnockoutJS-Snippets) - snippets for KnockoutJS
 
 #### Other
 
-- [Pretty JSON](https://sublime.wbond.net/packages/Pretty%20JSON) - prettifies JSON
-- [Scopes](https://github.com/tushortz/scopes) - get over 165 language scopes for theme making, auto-complete etc.
-
-### PHP
-
-- *coming soon*
-
-### Ruby
-
-- *coming soon*
+- [Pretty JSON](https://packagecontrol.io/packages/Pretty%20JSON) - prettifies JSON
 
 ### Python
 
-- [FoldPython](https://github.com/svenfraeys/SublimeFoldPython) - intelligent folding and code navigation
+- [FoldPython](https://packagecontrol.io/packages/Fold%20Python) - intelligent folding and code navigation
 
 ### Go
 
-- [Sourcegraph](https://sourcegraph.com/tools/editor) - instant code usage examples, as you type ("automatic pair programmer")
+- [Sourcegraph](https://packagecontrol.io/packages/Sourcegraph) - instant code usage examples, as you type ("automatic pair programmer")
 
 ### Java
 
 - [JavaIME](https://packagecontrol.io/packages/JavaIME) - Easily import Java packages and classes in sublime text
-- [Java Methods Completion](https://github.com/tushortz/Java-Methods-Completion) - All java methods completion for sublime text.
 
+### Other Languages
+
+- [Qt Completions for C++](https://packagecontrol.io/packages/Qt%20Completions%20for%20C%2B%2B) - completion features for Qt C++
+- [PyQt5 Completions](https://packagecontrol.io/packages/PyQt5%20Completions) - completion features for PyQt
+- [R-Box](https://packagecontrol.io/packages/R-Box) - completion and status bar hints for R
+-
 ## Linters
 
 ### SublimeLinter
 
-For a more full list of SublimeLinters, check out [this](https://sublime.wbond.net/browse/labels/SublimeLinter).
+For a more full list of SublimeLinters, check out [this](https://packagecontrol.io/browse/labels/SublimeLinter).
 
-- [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter) - the most extensive Sublime Text linter out there
-- [SublimeLinter-jshint](https://sublime.wbond.net/packages/SublimeLinter-jshint) - Javascript Linter
-- [SublimeLinter-html-tidy](https://sublime.wbond.net/packages/SublimeLinter-html-tidy) - HTML Linter
-- [SublimeLinter-haml](https://sublime.wbond.net/packages/SublimeLinter-haml) - HAML Linter
-- [SublimeLinter-csslint](https://sublime.wbond.net/packages/SublimeLinter-csslint) - CSS Linter
-- [SublimeLinter-json](https://sublime.wbond.net/packages/SublimeLinter-json) - JSON Linter
-- [SublimeLinter-php](https://sublime.wbond.net/packages/SublimeLinter-php) - PHP Linter
-- [SublimeLinter-pylint](https://sublime.wbond.net/packages/SublimeLinter-pylint) - Python Linter
-- [SublimeLinter-ruby](https://sublime.wbond.net/packages/SublimeLinter-ruby) - Ruby Linter
-- [SublimeLinter-contrib-java](https://sublime.wbond.net/packages/SublimeLinter-contrib-java) - Java Linter
-- [SublimeLinter-contrib-clang](https://sublime.wbond.net/packages/SublimeLinter-contrib-clang) - C/C++ Linter
-- [SublimeLinter-lua](https://sublime.wbond.net/packages/SublimeLinter-lua) - Lua Linter
-- [SublimeLinter-perl](https://sublime.wbond.net/packages/SublimeLinter-contrib-perl) - Perl Linter
-- [SublimeLinter-xmllint](https://sublime.wbond.net/packages/SublimeLinter-xmllint) - XML Linter
-- [SublimeLinter-contrib-rustc](https://sublime.wbond.net/packages/SublimeLinter-contrib-rustc) - Rust Linter
+- [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) - the most extensive Sublime Text linter out there
+- [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint) - Javascript Linter
+- [SublimeLinter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy) - HTML Linter
+- [SublimeLinter-haml](https://packagecontrol.io/packages/SublimeLinter-haml) - HAML Linter
+- [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint) - CSS Linter
+- [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json) - JSON Linter
+- [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php) - PHP Linter
+- [SublimeLinter-pylint](https://packagecontrol.io/packages/SublimeLinter-pylint) - Python Linter
+- [SublimeLinter-ruby](https://packagecontrol.io/packages/SublimeLinter-ruby) - Ruby Linter
+- [SublimeLinter-contrib-java](https://packagecontrol.io/packages/SublimeLinter-contrib-java) - Java Linter
+- [SublimeLinter-contrib-clang](https://packagecontrol.io/packages/SublimeLinter-contrib-clang) - C/C++ Linter
+- [SublimeLinter-lua](https://packagecontrol.io/packages/SublimeLinter-lua) - Lua Linter
+- [SublimeLinter-perl](https://packagecontrol.io/packages/SublimeLinter-contrib-perl) - Perl Linter
+- [SublimeLinter-xmllint](https://packagecontrol.io/packages/SublimeLinter-xmllint) - XML Linter
+- [SublimeLinter-contrib-rustc](https://packagecontrol.io/packages/SublimeLinter-contrib-rustc) - Rust Linter
 
 ### Other Linters
 
-- [jslint](https://sublime.wbond.net/packages/JSLint) - Javascript Linter
-- [CoffeeLint](https://sublime.wbond.net/packages/CoffeeLint) - Coffeescript Linter
-- [JSONLint](https://sublime.wbond.net/packages/JSONLint) - JSON Linter
-- [Pylint](https://sublime.wbond.net/packages/Pylinter) - Python Linter
+- [jslint](https://packagecontrol.io/packages/JSLint) - Javascript Linter
+- [CoffeeLint](https://packagecontrol.io/packages/CoffeeLint) - Coffeescript Linter
+- [JSONLint](https://packagecontrol.io/packages/JSONLint) - JSON Linter
+- [Pylint](https://packagecontrol.io/packages/Pylinter) - Python Linter
 
 ## Version Control
 
-- [Git](https://sublime.wbond.net/packages/Git) - awesome git integration into Sublime Text
-- [GitGutter](https://sublime.wbond.net/packages/GitGutter) - see git diffs in gutter
-- [Github Tools](https://sublime.wbond.net/packages/Github%20Tools) - tools to work with Github in Sublime Text
-- [SVN](https://sublime.wbond.net/packages/SVN) - plugin for Subversion
+- [Git](https://packagecontrol.io/packages/Git) - awesome git integration into Sublime Text
+- [GitGutter](https://packagecontrol.io/packages/GitGutter) - see git diffs in gutter
+- [Github Tools](https://packagecontrol.io/packages/Github%20Tools) - tools to work with Github in Sublime Text
+- [SVN](https://packagecontrol.io/packages/SVN) - plugin for Subversion
 
 ## FTP, FTPS, and SFTP
 
@@ -166,9 +160,9 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 
 ## Writing and publishing
 
-- [Asciidoctor](https://github.com/asciidoctor/sublimetext-asciidoc) - syntax highlighting, snippets and other goodies for AsciiDoc editing
-- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - powerful Markdown package with better syntax understanding and good color schemes
-- [KeyboardSpellCheck](https://github.com/jlknuth/KeyboardSpellCheck) - fast spell checking *sans mouse*
+- [AsciiDoc](https://packagecontrol.io/packages/AsciiDoc) - syntax highlighting, snippets and other goodies for AsciiDoc editing
+- [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing) - powerful Markdown package with better syntax understanding and good color schemes
+- [KeyboardSpellCheck](https://packagecontrol.io/packages/KeyboardSpellCheck) - fast spell checking *sans mouse*
 
 ## UI Upgrades
 
@@ -176,45 +170,45 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 
 ### Themes
 
-- [Predawn](https://sublime.wbond.net/packages/Predawn)
-- [Spacegray](https://sublime.wbond.net/packages/Theme%20-%20Spacegray)
-- [Flatland](https://sublime.wbond.net/packages/Theme%20-%20Flatland)
-- [Soda](https://sublime.wbond.net/packages/Theme%20-%20Soda)
-- [Glacier](https://sublime.wbond.net/packages/Theme%20-%20Glacier)
-- [Argonaut](https://sublime.wbond.net/packages/Theme%20-%20Argonaut)
-- [Piatto](https://sublime.wbond.net/packages/Theme%20-%20Piatto)
-- [Flatron](https://sublime.wbond.net/packages/Flatron)
-- [Afterglow](https://sublime.wbond.net/packages/Theme%20-%20Afterglow)
-- [Material](http://equinusocio.github.io/material-theme/)
+- [Soda](https://packagecontrol.io/packages/Theme%20-%20Soda)
+- [Predawn](https://packagecontrol.io/packages/Predawn)
+- [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
+- [Flatland](https://packagecontrol.io/packages/Theme%20-%20Flatland)
+- [Seti UI](https://packagecontrol.io/packages/Seti_UI)
+- [Material](https://packagecontrol.io/packages/Material%20Theme)
+- [Brogrammer](https://packagecontrol.io/packages/Theme%20-%20Brogrammer)
+- [Glacier](https://packagecontrol.io/packages/Theme%20-%20Glacier)
+- [Argonaut](https://packagecontrol.io/packages/Theme%20-%20Argonaut)
+- [Piatto](https://packagecontrol.io/packages/Theme%20-%20Piatto)
+- [Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
+- [Flatron](https://packagecontrol.io/packages/Flatron)
 
 ### Color Schemes
 
-- [Tomorrow](https://sublime.wbond.net/packages/Tomorrow%20Color%20Schemes)
-- [Ant](https://sublime.wbond.net/packages/Ant%20Color%20Scheme)
-- [Spirit](https://sublime.wbond.net/packages/Spirit%20Color%20Scheme)
-- [Cheerfully Dark](https://sublime.wbond.net/packages/CheerfullyDark)
-- [Gray Matter](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Gray%20Matter)
-- [Spectral](https://sublime.wbond.net/packages/Color%20Scheme%20-%20Spectral)
-- [Future Funk](https://sublime.wbond.net/packages/Future%20Funk%20-%20Color%20Scheme)
+- [1337](https://packagecontrol.io/packages/1337%20Color%20Scheme)
+- [3024](https://packagecontrol.io/packages/3024%20Color%20Scheme)
+- [Tomorrow](https://packagecontrol.io/packages/Tomorrow%20Color%20Schemes)
+- [Gray Matter](https://packagecontrol.io/packages/Color%20Scheme%20-%20Gray%20Matter)
+- [Future Funk](https://packagecontrol.io/packages/Future%20Funk%20-%20Color%20Scheme)
+- [Cheerfully Dark](https://packagecontrol.io/packages/CheerfullyDark)
+- [Ant](https://packagecontrol.io/packages/Ant%20Color%20Scheme)
+- [Spirit](https://packagecontrol.io/packages/Spirit%20Color%20Scheme)
+- [Spectral](https://packagecontrol.io/packages/Color%20Scheme%20-%20Spectral)
 - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
 
 #### Color Scheme Related Links
 
 - [tmTheme Editor](http://tmtheme-editor.herokuapp.com/) - allows you to make your own Sublime color schemes
 - [ColorSublime](http://colorsublime.com/) - a website featuring a wide variety of Sublime color schemes
-- [Schemr](https://sublime.wbond.net/packages/Schemr) - a package that allows you to switch between color schemes faster
+- [Schemr](https://packagecontrol.io/packages/Schemr) - a package that allows you to switch between color schemes faster
 - [Sublimescheme](https://pypi.python.org/pypi/sublimescheme) - a python package to quickly create a colour scheme with as little as six lines of code.
 - [Sublimetheme](https://rubygems.org/gems/sublimetheme) - a Ruby package to quickly create a colour scheme with as little as six lines of code.
 
 ### Other
 
-- [Sidebar Enhancements](https://sublime.wbond.net/packages/SideBarEnhancements) - enhancements for your sidebar (duh)
-- [Gutter Color](https://sublime.wbond.net/packages/Gutter%20Color) - displays a colored icon for all lines which contain a color
-- [Origami](https://sublime.wbond.net/packages/Origami) - custom panes
-
-## For Plugins Developers
-
-- [SublimeDSL](https://github.com/jirutka/sublimedsl) - simple pythonic DSL for generating Sublime Text configs
+- [Sidebar Enhancements](https://packagecontrol.io/packages/SideBarEnhancements) - enhancements for your sidebar (duh)
+- [Gutter Color](https://packagecontrol.io/packages/Gutter%20Color) - displays a colored icon for all lines which contain a color
+- [Origami](https://packagecontrol.io/packages/Origami) - custom panes
 
 ## Learning Resources
 
@@ -226,23 +220,27 @@ For a more full list of SublimeLinters, check out [this](https://sublime.wbond.n
 
 ### Video Tutorials
 
-- [LevelUpTuts Sublime Text 2 Tutorials](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP) - Easy to follow and understand video tutorial for beginners
-- [Gerinho/Jeffrey Way's Sublime Text Video Tutorial Series](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4) - In depth series of tips and tricks (Mostly Mac specific)
-- [tdsurvival - Getting Started with SublimeText](https://www.youtube.com/watch?v=04gKiTiRlq8) - Introduction to Sublime, showing features, etc.
+- [LevelUpTuts Sublime Text 2 Tutorials](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP) - easy to follow and understand video tutorial for beginners
+- [Gerinho/Jeffrey Way's Sublime Text Video Tutorial Series](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4) - in-depth series of tips and tricks (mostly Mac specific)
+- [tdsurvival - Getting Started with SublimeText](https://www.youtube.com/watch?v=04gKiTiRlq8) - introduction to Sublime, showing features, etc.
 
 ## Other
 
-- [TodoReview](https://sublime.wbond.net/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
-- [Alignment](https://sublime.wbond.net/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
-- [GhostText](https://sublime.wbond.net/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
-- [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile) - Advanced file creation. E.g. allows to specify file path right when creating a new file
-- [FileDiffs](https://sublime.wbond.net/packages/FileDiffs) - Show file diffs
-- [TrailingSpaces](https://sublime.wbond.net/packages/TrailingSpaces) - Highlight trailing spaces/tabs and delete them
-- [SublimeCodeIntel](https://sublime.wbond.net/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
-- [AllAutocomplete](https://sublime.wbond.net/packages/All%20Autocomplete) - Extend autocompletion to find matches in all open files of the current window
-- [SelectUntil](https://github.com/xavi-/sublime-selectuntil) - expand or move all selections to a regex match
+- [TodoReview](https://packagecontrol.io/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
+- [Alignment](https://packagecontrol.io/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
+- [GhostText](https://packagecontrol.io/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
+- [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile) - Advanced file creation. E.g. allows to specify file path right when creating a new file
+- [FileDiffs](https://packagecontrol.io/packages/FileDiffs) - Show file diffs
+- [TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces) - Highlight trailing spaces/tabs and delete them
+- [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
+- [All Autocomplete](https://packagecontrol.io/packages/All%20Autocomplete) - Extend autocompletion to find matches in all open files of the current window
+- [SelectUntil](https://packagecontrol.io/packages/SelectUntil) - expand or move all selections to a regex match
+- [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - autocomplete filenames in Sublime Text
+- [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - Simplifies writing DocBlock comments
 
 ## Contributing
+
+Feel free to contribute helpful links that could make the use of Sublime easier. When linking to packages, please make sure the link directs to the package's [Package Control](https://packagecontrol.io/) page, and also make sure that the link is placed in the proper section or subsection.
 
 I'll make sure to answer to all issues issued and all pull requests pulled. Typos, suggestions, broken links, grammar errors, whatever. Go right ahead.
 
