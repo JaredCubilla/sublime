@@ -170,30 +170,31 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 
 ### Themes
 
-- [Soda](https://packagecontrol.io/packages/Theme%20-%20Soda)
-- [Predawn](https://packagecontrol.io/packages/Predawn)
-- [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
-- [Flatland](https://packagecontrol.io/packages/Theme%20-%20Flatland)
-- [Seti UI](https://packagecontrol.io/packages/Seti_UI)
-- [Material](https://packagecontrol.io/packages/Material%20Theme)
-- [Brogrammer](https://packagecontrol.io/packages/Theme%20-%20Brogrammer)
-- [Glacier](https://packagecontrol.io/packages/Theme%20-%20Glacier)
-- [Argonaut](https://packagecontrol.io/packages/Theme%20-%20Argonaut)
-- [Piatto](https://packagecontrol.io/packages/Theme%20-%20Piatto)
 - [Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
+- [Argonaut](https://packagecontrol.io/packages/Theme%20-%20Argonaut)
+- [Brogrammer](https://packagecontrol.io/packages/Theme%20-%20Brogrammer)
+- [Flatland](https://packagecontrol.io/packages/Theme%20-%20Flatland)
 - [Flatron](https://packagecontrol.io/packages/Flatron)
+- [Glacier](https://packagecontrol.io/packages/Theme%20-%20Glacier)
+- [Material](https://packagecontrol.io/packages/Material%20Theme)
+- [Piatto](https://packagecontrol.io/packages/Theme%20-%20Piatto)
+- [Predawn](https://packagecontrol.io/packages/Predawn)
+- [Seti UI](https://packagecontrol.io/packages/Seti_UI)
+- [Soda](https://packagecontrol.io/packages/Theme%20-%20Soda)
+- [Spacegray](https://packagecontrol.io/packages/Theme%20-%20Spacegray)
 
 ### Color Schemes
 
 - [1337](https://packagecontrol.io/packages/1337%20Color%20Scheme)
 - [3024](https://packagecontrol.io/packages/3024%20Color%20Scheme)
-- [Tomorrow](https://packagecontrol.io/packages/Tomorrow%20Color%20Schemes)
-- [Gray Matter](https://packagecontrol.io/packages/Color%20Scheme%20-%20Gray%20Matter)
-- [Future Funk](https://packagecontrol.io/packages/Future%20Funk%20-%20Color%20Scheme)
-- [Cheerfully Dark](https://packagecontrol.io/packages/CheerfullyDark)
 - [Ant](https://packagecontrol.io/packages/Ant%20Color%20Scheme)
-- [Spirit](https://packagecontrol.io/packages/Spirit%20Color%20Scheme)
+- [Cheerfully Dark](https://packagecontrol.io/packages/CheerfullyDark)
+- [Dracula](https://packagecontrol.io/packages/Dracula%20Color%20Scheme)
+- [Future Funk](https://packagecontrol.io/packages/Future%20Funk%20-%20Color%20Scheme)
+- [Gray Matter](https://packagecontrol.io/packages/Color%20Scheme%20-%20Gray%20Matter)
 - [Spectral](https://packagecontrol.io/packages/Color%20Scheme%20-%20Spectral)
+- [Spirit](https://packagecontrol.io/packages/Spirit%20Color%20Scheme)
+- [Tomorrow](https://packagecontrol.io/packages/Tomorrow%20Color%20Schemes)
 - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
 
 #### Color Scheme Related Links
