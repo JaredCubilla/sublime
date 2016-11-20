@@ -125,6 +125,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 For a more full list of SublimeLinters, check out [this](https://packagecontrol.io/browse/labels/SublimeLinter).
 
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) - the most extensive Sublime Text linter out there
+- [SublimeLinter-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint) - Industry standard es6 linter
 - [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint) - Javascript Linter
 - [SublimeLinter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy) - HTML Linter
 - [SublimeLinter-haml](https://packagecontrol.io/packages/SublimeLinter-haml) - HAML Linter
@@ -149,6 +150,7 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 
 ## Version Control
 
+- [GitSavvy](https://packagecontrol.io/packages/GitSavvy) - Sourcetree Like Git interface
 - [Git](https://packagecontrol.io/packages/Git) - awesome git integration into Sublime Text
 - [GitGutter](https://packagecontrol.io/packages/GitGutter) - see git diffs in gutter
 - [Github Tools](https://packagecontrol.io/packages/Github%20Tools) - tools to work with Github in Sublime Text
