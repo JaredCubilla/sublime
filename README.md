@@ -199,8 +199,9 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 - [Tomorrow](https://packagecontrol.io/packages/Tomorrow%20Color%20Schemes)
 - [Wildlife](https://packagecontrol.io/packages/Wildlife%20Color%20Scheme)
 
-#### Color Scheme Related Links
+#### Theme/Color Scheme Related Links
 
+- [Album Themes](http://www.albumthemes.com/) - compilation of color themes that fit color themes of specific album covers
 - [tmTheme Editor](http://tmtheme-editor.herokuapp.com/) - allows you to make your own Sublime color schemes
 - [ColorSublime](http://colorsublime.com/) - a website featuring a wide variety of Sublime color schemes
 - [Schemr](https://packagecontrol.io/packages/Schemr) - a package that allows you to switch between color schemes faster
