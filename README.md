@@ -241,6 +241,7 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 - [SelectUntil](https://packagecontrol.io/packages/SelectUntil) - expand or move all selections to a regex match
 - [AutoFileName](https://packagecontrol.io/packages/AutoFileName) - autocomplete filenames in Sublime Text
 - [DocBlockr](https://packagecontrol.io/packages/DocBlockr) - Simplifies writing DocBlock comments
+- [SuperSettings](https://packagecontrol.io/packages/SuperSettings) - Allows you to have different settings per folder or project by simply using per-directory settings files
 
 ## Contributing
 
