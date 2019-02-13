@@ -52,7 +52,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 #### Prettification
 
 - [HTMLTidy](https://packagecontrol.io/packages/HtmlTidy) - tidies, cleans HTML code
-- [HTML-CSS-JS-Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - prettifies HTML, CSS and JavaScript
+- [HTML-CSS-JS-Prettify](https://packagecontrol.io/packages/HTML-CSS-JS%20Prettify) - prettifies HTML, CSS, and JavaScript
 
 #### Workflow
 
@@ -67,7 +67,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 #### Other
 
-- [Emmet](https://packagecontrol.io/packages/Emmet) - an essential toolkit of web developers working with HTML/CSS
+- [Emmet](https://packagecontrol.io/packages/Emmet) - an essential toolkit for web developers working with HTML/CSS
 - [Emmet CSS Snippets](https://packagecontrol.io/packages/Emmet%20Css%20Snippets) - Emmet, only for CSS
 
 ### Javascript
@@ -110,7 +110,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 
 ### Java
 
-- [JavaIME](https://packagecontrol.io/packages/JavaIME) - Easily import Java packages and classes in sublime text
+- [JavaIME](https://packagecontrol.io/packages/JavaIME) - easily import Java packages and classes in sublime text
 
 ### Other Languages
 
@@ -125,7 +125,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 For a more full list of SublimeLinters, check out [this](https://packagecontrol.io/browse/labels/SublimeLinter).
 
 - [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter) - the most extensive Sublime Text linter out there
-- [SublimeLinter-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint) - Industry standard es6 linter
+- [SublimeLinter-eslint](https://packagecontrol.io/packages/SublimeLinter-contrib-eslint) - industry standard es6 linter
 - [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint) - Javascript Linter
 - [SublimeLinter-html-tidy](https://packagecontrol.io/packages/SublimeLinter-html-tidy) - HTML Linter
 - [SublimeLinter-haml](https://packagecontrol.io/packages/SublimeLinter-haml) - HAML Linter
@@ -150,7 +150,7 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 
 ## Version Control
 
-- [GitSavvy](https://packagecontrol.io/packages/GitSavvy) - Sourcetree Like Git interface
+- [GitSavvy](https://packagecontrol.io/packages/GitSavvy) - sourcetree-like Git interface
 - [Git](https://packagecontrol.io/packages/Git) - awesome git integration into Sublime Text
 - [GitGutter](https://packagecontrol.io/packages/GitGutter) - see git diffs in gutter
 - [Github Tools](https://packagecontrol.io/packages/Github%20Tools) - tools to work with Github in Sublime Text
@@ -201,7 +201,7 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 
 #### Theme/Color Scheme Related Links
 
-- [Album Themes](http://www.albumthemes.com/) - compilation of color themes that fit color themes of specific album covers
+- [Album Themes](http://www.albumthemes.com/) - compilation of color themes that fits color themes of specific album covers
 - [tmTheme Editor](http://tmtheme-editor.herokuapp.com/) - allows you to make your own Sublime color schemes
 - [ColorSublime](http://colorsublime.com/) - a website featuring a wide variety of Sublime color schemes
 - [Schemr](https://packagecontrol.io/packages/Schemr) - a package that allows you to switch between color schemes faster
@@ -226,14 +226,14 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 
 - [LevelUpTuts Sublime Text 2 Tutorials](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP) - easy to follow and understand video tutorial for beginners
 - [Gerinho/Jeffrey Way's Sublime Text Video Tutorial Series](https://www.youtube.com/watch?v=5AV9zJH2n_Y&list=PLmJpVU-TdmVtTLooKvX3jcrOziPjlWrD4) - in-depth series of tips and tricks (mostly Mac specific)
-- [tdsurvival - Getting Started with SublimeText](https://www.youtube.com/watch?v=04gKiTiRlq8) - introduction to Sublime, showing features, etc.
+- [tdsurvival - Getting Started with SublimeText](https://www.youtube.com/watch?v=04gKiTiRlq8) - introduction to Sublime showing features, etc.
 
 ## Other
 
 - [TodoReview](https://packagecontrol.io/packages/TodoReview) - plugin for reviewing todo (and other) comments within your code
 - [Alignment](https://packagecontrol.io/packages/Alignment) - A simple key-binding for aligning multi-line and multiple selections
 - [GhostText](https://packagecontrol.io/packages/GhostText) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 using WebSockets
-- [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile) - Advanced file creation. E.g. allows to specify file path right when creating a new file
+- [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile) - Advanced file creation. For example, allows to specify file path right when creating a new file
 - [FileDiffs](https://packagecontrol.io/packages/FileDiffs) - Show file diffs
 - [TrailingSpaces](https://packagecontrol.io/packages/TrailingSpaces) - Highlight trailing spaces/tabs and delete them
 - [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel) - Full-featured code intelligence and smart autocomplete engine
