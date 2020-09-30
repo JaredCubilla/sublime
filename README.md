@@ -117,7 +117,7 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [Qt Completions for C++](https://packagecontrol.io/packages/Qt%20Completions%20for%20C%2B%2B) - completion features for Qt C++
 - [PyQt5 Completions](https://packagecontrol.io/packages/PyQt5%20Completions) - completion features for PyQt
 - [R-Box](https://packagecontrol.io/packages/R-Box) - completion and status bar hints for R
--
+
 ## Linters
 
 ### SublimeLinter
