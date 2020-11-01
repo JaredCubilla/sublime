@@ -9,6 +9,10 @@ A collection of some of the best Sublime Text packages, themes, tutorials, artic
 - [Package Control](https://packagecontrol.io/) - an essential package manager for Sublime Text
 - [Brief introduction to Sublime Text customization](https://css-tricks.com/sublime-text-front-end-developers/)
 
+## Language-Agnostic
+
+- [TabNine](https://github.com/codota/tabnine-sublime) - AI code completions for any language
+
 ## Language-Specific
 
 ### HTML/CSS
